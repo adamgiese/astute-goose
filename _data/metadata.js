@@ -1,8 +1,8 @@
 module.exports = {
-	title: "Astute Goose Games",
-	url: "https://astutegoose.com/",
+	title: "Game Ideas",
+	url: "https://gameideas.net/",
 	language: "en",
-	description: "Words about games",
+	description: "Ideas about and for games",
 	author: {
 		name: "Adam Giese",
 		email: "adam.giese@gmail.com",

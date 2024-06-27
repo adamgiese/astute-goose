@@ -1,6 +1,6 @@
 ---
 title: Hello, Board Gaming World!
-description: An Introduction to Astute Goose
+description: An Introduction to "Game Ideas"
 date: 2024-06-26
 tags:
   - meta
