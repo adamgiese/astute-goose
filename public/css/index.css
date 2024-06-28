@@ -160,7 +160,7 @@ header {
 .home-link {
 	font-size: 1em; /* 16px /16 */
 	font-weight: 700;
-	margin-right: 2em;
+	margin-right: auto;
 }
 .home-link:link:not(:hover) {
 	text-decoration: none;
