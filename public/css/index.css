@@ -52,8 +52,22 @@ body {
 html {
 	overflow-y: scroll;
 }
-body {
+
+header {
 	max-width: 40em;
+	margin: 0 auto;
+}
+
+article {
+	max-width: 40em;
+	margin: 0 auto;
+}
+
+main > h1 {
+	text-align: center;
+	background: black;
+	color: white;
+	padding: 1rem;
 }
 
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
@@ -88,17 +102,10 @@ a[href]:hover,
 a[href]:active {
 	color: var(--text-color-link-active);
 }
-
-main {
-	padding: 1rem;
-}
 main :first-child {
 	margin-top: 0;
 }
 
-header {
-	border-bottom: 1px dashed var(--color-gray-20);
-}
 header:after {
 	content: "";
 	display: table;
