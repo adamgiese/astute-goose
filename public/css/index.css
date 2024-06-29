@@ -18,6 +18,8 @@
 	--text-color-link-visited: #17050F;
 
 	--syntax-tab-size: 2;
+
+	--content-max-width: 40em;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -54,12 +56,17 @@ html {
 }
 
 header {
-	max-width: 40em;
+	max-width: var(--content-max-width);
 	margin: 0 auto;
 }
 
 article {
-	max-width: 40em;
+	max-width: var(--content-max-width);
+	margin: 0 auto;
+}
+
+footer {
+	max-width: var(--content-max-width);
 	margin: 0 auto;
 }
 
