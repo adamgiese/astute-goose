@@ -17,6 +17,20 @@ layout: layouts/base.njk
 
 	{{ content | safe }}
 
+	<form class="contact-form" netlify>
+		<h2>Contact Me!</h2>
+		<input type="hidden" value="Post: {{title}}" />
+		<label>Email: 
+			<input type="email" />
+		</label>
+		<p>Email is optional, in case you might want to be contacted back!</p>
+
+		<label>Comment:
+			<textarea required=true></textarea>
+		</label>
+		<button type="submit">Submit</button>
+	</form>
+
 	{%- if collections.posts %}
 	{%- set previousPost = collections.posts | getPreviousCollectionItem %}
 	{%- set nextPost = collections.posts | getNextCollectionItem %}

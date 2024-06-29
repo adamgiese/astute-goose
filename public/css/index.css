@@ -282,3 +282,26 @@ a[href].header-anchor:focus,
 h2 + .header-anchor {
 	font-size: 1.5em;
 }
+
+/* Contact Form */
+
+.contact-form {
+	width: 100%;
+	background: var(--color-gray-20);
+	border-radius: 4px;
+	padding: 1rem;
+}
+
+.contact-form input,
+.contact-form textarea {
+	width: 100%;
+}
+
+.contact-form label {
+	margin-bottom: 1rem;
+}
+
+.contact-form p {
+	margin-top: 0;
+	font-style: italic;
+}
