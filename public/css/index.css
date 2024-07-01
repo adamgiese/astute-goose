@@ -296,6 +296,12 @@ h2 + .header-anchor {
 	padding: 1rem;
 }
 
+@media (prefers-color-scheme: dark) {
+	.contact-form {
+		background: black;
+	}
+}
+
 .contact-form input,
 .contact-form textarea {
 	width: 100%;
