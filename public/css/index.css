@@ -11,6 +11,7 @@
 	--color-gray-90: #333;
 
 	--background-color: #fff;
+	--color-navy-90: #07131e;
 
 	--text-color: var(--color-gray-90);
 	--text-color-link: #082840;
@@ -294,11 +295,12 @@ h2 + .header-anchor {
 	background: var(--color-gray-20);
 	border-radius: 4px;
 	padding: 1rem;
+	margin-top: 3rem;
 }
 
 @media (prefers-color-scheme: dark) {
 	.contact-form {
-		background: black;
+		background: var(--color-navy-90);
 	}
 }
 
