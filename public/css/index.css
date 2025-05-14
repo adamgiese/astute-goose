@@ -82,6 +82,11 @@ main > h1 {
 	padding: 1rem;
 }
 
+img {
+	max-width: 100%;
+	max-height: auto;
+}
+
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
 .visually-hidden {
 	clip: rect(0 0 0 0);
