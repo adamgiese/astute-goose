@@ -1,7 +1,7 @@
 ---
 title: Ichor Review
 description: A battle of gods and monsters... in a 6x6 grid.
-date: 2025-05-15
+date: 2025-05-13
 tags:
   - Review
   - Reiner Knizia
