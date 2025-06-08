@@ -23,3 +23,5 @@ The variable setup of the success tokens is a bit of a double-edged sword. They 
 The random draw of tiles is similarly a blessing and a curse. It adds interesting and tense decisions at times. But sometimes, it just feels unfair. Each tile’s special ability shines at certain times of the game. Being able to move your opponent’s tile shines in the mid-game, as the rows and columns start to fill. Being able to swap out your award tiles from the reserve is only useful once you have a reserve tile. It can be frustrating to pull tile after tile that you don’t really need, while your opponent is able to swap out their -10 tile as soon as they get it. 
 
 If you are looking for a tense push-and-pull two-player game with tough choices throughout, **Iliad** would be a great addition to your collection. The randomness may feel unfair at times, but it's also what makes this game such a tactical joy to play.
+
+_A copy of **Iliad** was provided by Bitewing Games for review purposes. Opinions are my own._
